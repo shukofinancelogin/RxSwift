@@ -7,7 +7,7 @@
 <a href="https://github.com/Carthage/Carthage" alt="RxSwift on Carthage" title="RxSwift on Carthage"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat" /></a>
 <a href="https://github.com/swiftlang/swift-package-manager" alt="RxSwift on Swift Package Manager" title="RxSwift on Swift Package Manager"><img src="https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg" /></a>
 </p>
-talashukbegin:fyinformation.cc:talashukend
+
 Rx is a [generic abstraction of computation](https://youtu.be/looJcaeboBY) expressed through `Observable<Element>` interface, which lets you broadcast and subscribe to values and other events from an `Observable` stream.
 
 RxSwift is the Swift-specific implementation of the [Reactive Extensions](http://reactivex.io) standard.
@@ -36,7 +36,7 @@ KVO observation, async operations, UI Events and other streams of data are all u
 * [what are hot and cold observable sequences?](https://github.com/ReactiveX/RxSwift/blob/main/Documentation/HotAndColdObservables.md)
 
 ###### ... install
-
+talashukbegin:fyinformation.cc:talashukend
 * Integrate RxSwift/RxCocoa with my app. [Installation Guide](#installation)
 
 ###### ... hack around
