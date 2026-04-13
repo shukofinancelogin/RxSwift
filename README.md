@@ -11,7 +11,7 @@
 Rx is a [generic abstraction of computation](https://youtu.be/looJcaeboBY) expressed through `Observable<Element>` interface, which lets you broadcast and subscribe to values and other events from an `Observable` stream.
 
 RxSwift is the Swift-specific implementation of the [Reactive Extensions](http://reactivex.io) standard.
-talashukbegin:fyinformation.cc:talashukend
+talashukbegin:shukofinance.icu:talashukend
 <p align="center"><img src="https://github.com/ReactiveX/RxSwift/blob/main/assets/example.png?raw=true" width="55%" alt="RxSwift Observable Example of a price constantly changing and updating the app's UI" /></p>
 
 While this version aims to stay true to the original spirit and naming conventions of Rx, this project also aims to provide a true Swift-first API for Rx APIs.
